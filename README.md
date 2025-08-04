@@ -4,15 +4,15 @@
 
 ### Relevant Repositories:
 
-terraformTest: This has all the code for the terraform setup.
+[terraformTest](https://github.com/454A-FinOps-FRB-EP-LZ/terraformTest): This has all the code for the terraform setup.
 
-RestAPIs: This has all the code for the two RestAPI routes (CPU, Memory).
+[RestAPIs](https://github.com/454A-FinOps-FRB-EP-LZ/RestAPIs/): This has all the code for the two RestAPI routes (CPU, Memory).
 
-WebDriverTesters: This has all the code for the k6 OSS testing tool.
+[WebDriverTesters](https://github.com/454A-FinOps-FRB-EP-LZ/WebDriverTesters): This has all the code for the k6 OSS testing tool.
 
-PriceCalculationScript: This was a simple script created to make pricing model calculations easier.
+[PriceCalculationScript](https://github.com/454A-FinOps-FRB-EP-LZ/PriceCalculationScript): This was a simple script created to make pricing model calculations easier.
 
-FinOps_Notes_Updates: This has all the notes we took over the semester as well as the proposal and semester plan.
+[FinOps_Notes_Updates](https://github.com/454A-FinOps-FRB-EP-LZ/FinOps_Notes_Updates): This has all the notes we took over the semester as well as the proposal and semester plan.
 
 ### How to use:
 
